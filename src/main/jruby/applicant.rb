@@ -1,7 +1,9 @@
 require 'java'
 require 'jruby/core_ext'
 
-class Applicant < org.edubkendo.JApplicant
+# class Applicant < org.edubkendo.JApplicant
+class Applicant
+  include org.edubkendo.JIApplicant
   attr_accessor :name, :age, :valid
 
   def initialize(name, age)
