@@ -1,10 +1,10 @@
 package org.edubkendo
 
-import org.edubkendo.JApplicant
+import org.edubkendo.JIApplicant
 
 rule "Is of valid age"
 when
-    $a : JApplicant( age < 18 )
+    $a : JIApplicant( age < 18 )
 then
     $a.setValid( false );
     System.out.println("Setting Valid False");

@@ -2,9 +2,6 @@ package rubyobj;
 
 import org.edubkendo.JIApplicant;
 
-/**
- * Created by eric on 12/10/13.
- */
 public class TestApplicant implements JIApplicant {
     private String name;
     private int age;
