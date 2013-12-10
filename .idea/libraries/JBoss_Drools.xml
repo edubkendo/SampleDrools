@@ -1,0 +1,97 @@
+<component name="libraryTable">
+  <library name="JBoss Drools" type="Drools">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/installs/drools/drools-compiler.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/antlr-runtime.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/drools-core.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/org.eclipse.jdt.core_3.9.1.v20130905-0837.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/slf4j-api.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/xpp3_min.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/drools-decisiontables.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/kie-internal.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/poi-ooxml.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/drools-jsr94.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/junit.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/poi.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/jbpm-bpmn2.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/jsr94.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/mvel2.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/drools-templates.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/protobuf-java.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/jbpm-flow-builder.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/jbpm-flow.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/kie-api.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/xstream.jar!/" />
+      <root url="jar://$USER_HOME$/installs/drools/xmlpull.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="http://docs.jboss.org/drools/release/6.0.0.Final/kie-api-javadoc/index.html" />
+      <root url="http://docs.jboss.org/drools/release/6.0.0.Final/optaplanner-javadoc/index.html" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/installs/drools/drools-master/kie-ci/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/kie-ci/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-core/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-core/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-jsr94/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-jsr94/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-reteoo/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-reteoo/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-compiler/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-compiler/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-compiler/src/test/resources" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-verifier/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-verifier/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-templates/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-templates/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/kie-maven-plugin/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/kie-maven-plugin/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-scorecards/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-scorecards/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/multiple-kbases/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/named-kiesession/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/named-kiesession/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/kiebase-inclusion/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/kiebase-inclusion/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/default-kiesession/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/default-kiesession/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/kiefilesystem-example/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/kiefilesystem-example/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/kiemodulemodel-example/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/kiemodulemodel-example/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/kiecontainer-from-kierepo/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/kiecontainer-from-kierepo/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/named-kiesession-from-file/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/named-kiesession-from-file/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/default-kiesession-from-file/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/default-kiesession-from-file/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/kie-module-from-multiple-files/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-api/kie-module-from-multiple-files/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-cdi/cdi-example/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-cdi/cdi-example/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-cdi/cdi-example-with-inclusion/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-examples-cdi/cdi-example-with-inclusion/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-decisiontables/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-decisiontables/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-persistence-jpa/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-persistence-jpa/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-workbench-models/drools-workbench-models-commons/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-workbench-models/drools-workbench-models-commons/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-workbench-models/drools-workbench-models-datamodel-api/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-workbench-models/drools-workbench-models-datamodel-api/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-workbench-models/drools-workbench-models-guided-dtable/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-workbench-models/drools-workbench-models-guided-dtable/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-workbench-models/drools-workbench-models-test-scenarios/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-workbench-models/drools-workbench-models-test-scenarios/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-workbench-models/drools-workbench-models-guided-template/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-workbench-models/drools-workbench-models-guided-template/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-workbench-models/drools-workbench-models-guided-scorecard/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/drools-workbench-models/drools-workbench-models-guided-scorecard/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/kie-maven-plugin-example/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/kie-maven-plugin-example/src/test/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/knowledge-api-legacy5-adapter/src/main/java" />
+      <root url="file://$USER_HOME$/installs/drools/drools-master/knowledge-api-legacy5-adapter/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
